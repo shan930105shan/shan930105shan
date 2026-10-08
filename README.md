@@ -29,13 +29,13 @@
 
 ## 🏆 Key Achievements & Projects | 代表作品與殊榮
 
-- **《BRrrd》畢業專案組長：結合 OpenCV 視覺辨識、Arduino 微控制器與氣泵串接之微型展演裝置｜入圍放視大賞、金點新秀贊助特別獎
-- **《RRRR》畢籌團隊公關長：主導展覽公關宣傳、品牌視覺整合與展場互動電路開發
-- ** 兩打半互動 程式實實習生：獨立開發《感覺器 OFF/ON》展覽互動遊戲（展出於府中15）、國泰航空線上問答遊戲
+- 《BRrrd》畢業專案組長：結合 OpenCV 視覺辨識、Arduino 微控制器與氣泵串接之微型展演裝置｜入圍放視大賞、金點新秀贊助特別獎
+- 《RRRR》畢籌團隊公關長：主導展覽公關宣傳、品牌視覺整合與展場互動電路開發
+- 兩打半互動 程式實實習生：獨立開發《感覺器 OFF/ON》展覽互動遊戲（展出於府中15）、國泰航空線上問答遊戲
 
 ---
 
 ## 📫 Connect with Me | 聯絡方式
 
 - 📧 Email: `930105book@gmail.com`
-- 📄 Portfolio PDF: [點此預覽完全版個人作品集]((https://drive.google.com/drive/u/5/home))
+- 📄 Portfolio PDF: [點此預覽完全版個人作品集](https://drive.google.com/drive/u/5/home)
