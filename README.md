@@ -38,4 +38,4 @@
 ## 📫 Connect with Me | 聯絡方式
 
 - 📧 Email: `930105book@gmail.com`
-- 📄 Portfolio PDF: [點此預覽完全版個人作品集](https://drive.google.com/drive/u/5/home)
+- 📄 Portfolio PDF: [點此預覽完全版個人作品集](https://drive.google.com/file/d/175Lb9YpJyID-N8d2zI3_PkMYo4KLcnNP/view?usp=drive_link)
