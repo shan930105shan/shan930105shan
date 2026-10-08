@@ -13,12 +13,9 @@
 
 | 專案名稱 | 技術棧 (Tech Stack) | 專案亮點與說明 | 線上預覽與程式碼 |
 | :--- | :--- | :--- | :--- |
-| **北科互動 111 級畢展官網** | `Vue 3` `Vite` `Tailwind CSS` | 獨立開發畢展官方網站，整合展覽動態視覺與多裝置 RWD 佈局。
-| [🌐 Live Demo](https://rrrr-website-git-main-tsai-shan-shans-projects.vercel.app/) • [📦 Code](https://github.com/shan930105shan/RRRR-website) |
-| **瑞思影像品牌官網** | `Vue 3` `JavaScript` `CSS3 / Canvas` | 自由接案開發，專注於高畫質影像加載優化與流暢轉場體驗。
-| [🌐 Live Demo]((https://www.ruisse.cc/)) • [📦 Code](https://github.com/shan930105shan/ruisse-studio) |
-| **載動科技企業官網** | `Vue 3` `TypeScript` `Tailwind CSS` | 自由接案開發，實作模組化 Component 結構與動態表單串接。
-| [🌐 Live Demo]((https://7hz.design/)) • [📦 Code]((https://github.com/shan930105shan/OiO)) |
+| **北科互動 111 級畢展官網** | `Vue 3` `Vite` `Tailwind CSS` | 獨立開發畢展官方網站，整合展覽動態視覺與多裝置 RWD 佈局。 | [🌐 Live Demo](https://rrrr-website-git-main-tsai-shan-shans-projects.vercel.app/) • [📦 Code](https://github.com/shan930105shan/RRRR-website) |
+| **瑞思影像品牌官網** | `Vue 3` `JavaScript` `CSS3 / Canvas` | 自由接案開發，專注於高畫質影像加載優化與流暢轉場體驗。 | [🌐 Live Demo](https://www.ruisse.cc/) • [📦 Code](https://github.com/shan930105shan/ruisse-studio) |
+| **載動科技企業官網** | `Vue 3` `TypeScript` `Tailwind CSS` | 自由接案開發，實作模組化 Component 結構與動態表單串接。 | [🌐 Live Demo](https://7hz.design/) • [📦 Code](https://github.com/shan930105shan/OiO) |
 
 ---
 
